@@ -22,3 +22,11 @@ If you're not familiar with SQL queries and using a command line to interact wit
 
 ### Windows Platforms
 Coming Soon!
+
+### Queries
+Step 1: Make the Table Schemas
+- [Make the ZAsmt Table](https://github.com/vt-zillow-project/database-tools/blob/master/sql_queries/make_zasmt_table.sql)
+- [Make the ZTrans Table](https://github.com/vt-zillow-project/database-tools/blob/master/sql_queries/make_ztrans_tables.sql)
+
+Step 2: Copy Data into the Tables
+- Run the [copy_*](https://github.com/vt-zillow-project/database-tools/tree/master/sql_queries) queries.
